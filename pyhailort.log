@@ -1,0 +1,9 @@
+2025-05-27 11:05:47,490 - WARNING - hw_object.py:46 - HailoHWObject is deprecated! Please use VDevice/Device object.
+2025-05-27 11:05:47,492 - WARNING - hw_object.py:447 - PcieDevice is deprecated! Please use VDevice/Device object.
+2025-05-27 11:05:47,552 - WARNING - control_object.py:61 - PcieHcpControl is deprecated! Please Use Control object
+2025-05-27 11:32:11,933 - WARNING - hw_object.py:46 - HailoHWObject is deprecated! Please use VDevice/Device object.
+2025-05-27 11:32:11,933 - WARNING - hw_object.py:447 - PcieDevice is deprecated! Please use VDevice/Device object.
+2025-05-27 11:32:11,958 - WARNING - control_object.py:61 - PcieHcpControl is deprecated! Please Use Control object
+2025-05-27 11:34:30,869 - WARNING - hw_object.py:46 - HailoHWObject is deprecated! Please use VDevice/Device object.
+2025-05-27 11:34:30,869 - WARNING - hw_object.py:447 - PcieDevice is deprecated! Please use VDevice/Device object.
+2025-05-27 11:34:30,895 - WARNING - control_object.py:61 - PcieHcpControl is deprecated! Please Use Control object
